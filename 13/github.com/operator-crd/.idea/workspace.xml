@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="693b5984-08d0-4169-8db3-cf3cc41e5e37" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/client-go-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../04/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../04/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../04/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../08/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/images/ingress-manager-1.0.0.tar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/ingress-manager-clusterrole.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/ingress-manager-clusterrolebinding.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/ingress-manager-deployment.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/ingress-manager-role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/ingress-manager-rolebinding.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/manifest/ingress-manager-sa.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/pkg/controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../11/pkg/controller.go.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../12/cr.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../12/crd.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/operator-crd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest/crd.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest/example-foo.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/apis/crd.example.com/v1/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/apis/crd.example.com/v1/register.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/apis/crd.example.com/v1/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/apis/crd.example.com/v1/zz_generated.deepcopy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../14/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../manifest/nginx-deployment-svc-ingress.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../manifest/pod-test.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.24.1.darwin-arm64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2uFiuPQYPTzV7xFuUekm7j409D1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/georgezhong",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pkg/apis" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.19072.18" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-GO-241.19072.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

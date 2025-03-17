@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d2e7fe1-debe-4c6b-ade9-67ff4d9ac99e" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/api/v1beta1/app_types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/api/v1beta1/groupversion_info.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/api/v1beta1/zz_generated.deepcopy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/crd/kustomization.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/crd/kustomizeconfig.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/rbac/app_admin_role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/rbac/app_editor_role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/rbac/app_viewer_role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/samples/ingress_v1beta1_app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/samples/kustomization.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/internal/controller/app_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/internal/controller/app_controller_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-demo/internal/controller/suite_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/.golangci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/PROJECT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/default/kustomization.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/default/manager_config_patch.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/default/manager_metrics_patch.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/default/metrics_service.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/manager/kustomization.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/manager/manager.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/prometheus/kustomization.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/prometheus/monitor.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/rbac/kustomization.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/rbac/leader_election_role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/rbac/leader_election_role_binding.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/rbac/role.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/rbac/role_binding.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/config/rbac/service_account.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/hack/boilerplate.go.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/test/e2e/e2e_suite_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/test/e2e/e2e_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kubebuilder-test/test/utils/utils.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13/code-generator" beforeDir="false" afterPath="$PROJECT_DIR$/../13/code-generator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubebuilder-demo/PROJECT" beforeDir="false" afterPath="$PROJECT_DIR$/../kubebuilder-demo/PROJECT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubebuilder-demo/cmd/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../kubebuilder-demo/cmd/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubebuilder-demo/config/default/kustomization.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/default/kustomization.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kubebuilder-demo/config/rbac/kustomization.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../kubebuilder-demo/config/rbac/kustomization.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file:///usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2uIvOjqmE5G2QbXiLq4yl5L2eS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "/Users/georgezhong",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.19072.18" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-GO-241.19072.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+# ingress-manager-sa.yaml
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: ingress-manager-sa
+  namespace: default
